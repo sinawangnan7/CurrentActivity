@@ -4,7 +4,7 @@
 
 ### 安装包地址：
 
-[CurrentActivity-debug.apk](https://github.com/sinawangnan7/CurrentActivity/blob/master/CurrentActivity-debug.apk)
+[CurrentActivity.apk](https://github.com/sinawangnan7/CurrentActivity/blob/master/CurrentActivity.apk)
 
 ### 使用说明:
 
