@@ -16,7 +16,7 @@
 
 **2.隐藏/显示悬浮窗（前提：已开启辅助服务）**
 
-![image_switch.png](https://github.com/sinawangnan7/CurrentActivity/blob/master/app/image/image_open.png)
+![image_switch.png](https://github.com/sinawangnan7/CurrentActivity/blob/master/app/image/image_switch.png)
 
 **3.关闭方式（关闭“辅助服务”）** 如下图所示：
 
