@@ -8,15 +8,17 @@
 
 ### 使用说明:
 
-**1.打开方式（开启“辅助功能”）** 如下图所示：
+**1.打开方式（开启“辅助服务”）** 如下图所示：
 
 ![image_open.png](https://github.com/sinawangnan7/CurrentActivity/blob/master/app/image/image_open.png)
 
 （注：Android 6.0以上 **必须** 开启悬浮窗权限，通知栏权限建议开启）
 
-**2.使用方式（“切换应用”或“在应用内跳转”即可）**
+**2.隐藏/显示悬浮窗（前提：已开启辅助服务）**
 
-**3.关闭方式（关闭“辅助功能”）** 如下图所示：
+![image_switch.png](https://github.com/sinawangnan7/CurrentActivity/blob/master/app/image/image_open.png)
+
+**3.关闭方式（关闭“辅助服务”）** 如下图所示：
 
 ![image_close.png](https://github.com/sinawangnan7/CurrentActivity/blob/master/app/image/image_close.png)
 
