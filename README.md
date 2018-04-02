@@ -2,15 +2,15 @@
 
 **CurrentActivity** 是用于显示当前 **应用包名** 和 **Activity类名** 的Android应用程序。
 
-### 功能演示
+### 安装包地址：
 
-![image_demo.png](https://github.com/sinawangnan7/CurrentActivity/blob/master/app/image/image_demo.png)
+[CurrentActivity-debug.apk](https://github.com/sinawangnan7/CurrentActivity/blob/master/CurrentActivity-debug.apk)
 
 ### 使用说明:
 
 **1.打开方式（开启“辅助功能”）** 如下图所示：
 
-![open.gif](https://github.com/sinawangnan7/CurrentActivity/blob/master/app/image/open.gif)
+![image_open.png](https://github.com/sinawangnan7/CurrentActivity/blob/master/app/image/image_open.png)
 
 （注：Android 6.0以上 **必须** 开启悬浮窗权限，通知栏权限建议开启）
 
@@ -18,15 +18,10 @@
 
 **3.关闭方式（关闭“辅助功能”）** 如下图所示：
 
-![close.gif](https://github.com/sinawangnan7/CurrentActivity/blob/master/app/image/close.gif)
+![image_close.png](https://github.com/sinawangnan7/CurrentActivity/blob/master/app/image/image_close.png)
 
 注：Android 7.0以上如果APP有通知栏权限，可通过 **点击通知栏** 关闭辅助服务（如下图所示）
 
-![close2.jpg](https://github.com/sinawangnan7/CurrentActivity/blob/master/app/image/close2.jpg)
-
-### 安装包地址：
-
-[CurrentActivity-debug.apk](https://github.com/sinawangnan7/CurrentActivity/blob/master/CurrentActivity-debug.apk)
 
 ### 其他说明：
 
