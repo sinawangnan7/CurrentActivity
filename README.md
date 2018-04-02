@@ -36,6 +36,6 @@
 
 2. **CurrentActivity** 在某些低版本的手机或模拟器上，可能会出现**应用退出窗口被移除的Bug，但继续切换应用，窗口会重新显示出来**。
 
-3. Android应用市场已有此功能的应用，该项目功能参考 [应用宝 - 当前Activity](http://sj.qq.com/myapp/search.htm?kw=%E5%BD%93%E5%89%8DActiity)。
+3. Android应用市场已有此功能的应用，该项目功能参考 [应用宝 - 当前Activity](http://sj.qq.com/myapp/detail.htm?apkName=com.willme.topactivity)。
 
 4. 该项目仅用于参考学习，辅助开发。
