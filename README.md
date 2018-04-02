@@ -28,9 +28,9 @@
 
 ### 其他说明：
 
-1.CurrentActivity显示的是顶层窗口视图的类名。所以，不一定是Activity类名，也有可能是Dialog或View的类名。
+1. CurrentActivity显示的是顶层窗口视图的类名。所以，不一定是Activity类名，也有可能是Dialog或View的类名。
 
-2.CurrentActivity在某些低版本的手机或模拟器上，可能会出现应用退出窗口被移除的Bug，但继续切换应用，窗口会重新显示出来。
+2. CurrentActivity在某些低版本的手机或模拟器上，可能会出现应用退出窗口被移除的Bug，但继续切换应用，窗口会重新显示出来。
 
 3. Android应用市场已有此功能的应用，该项目功能参考 [应用宝 - 当前Activity](http://sj.qq.com/myapp/search.htm?kw=%E5%BD%93%E5%89%8DActiity)。
 
