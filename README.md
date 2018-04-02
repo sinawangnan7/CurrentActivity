@@ -2,6 +2,10 @@
 
 **CurrentActivity** 是用于显示当前 **应用包名** 和 **Activity类名** 的Android应用程序。
 
+### 功能演示：
+
+![image_example.png](https://github.com/sinawangnan7/CurrentActivity/blob/master/app/image/image_example.png)
+
 ### 安装包地址：
 
 [CurrentActivity.apk](https://github.com/sinawangnan7/CurrentActivity/blob/master/CurrentActivity.apk)
