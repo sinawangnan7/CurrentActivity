@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CurrentActivity</string>
+    <string name="service_name">当前Activity(辅助服务)</string>
+    <string name="service_running">点击跳转【辅助功能】</string>
+    <string name="service_close"><![CDATA[<font color="#FF3333">点击通知栏 </font>]]>可关闭辅助服务</string>
+    <string name="service_description">点击右上角开关按钮可开启辅助功能\n\n(显示当前活动窗口包名和Activity类名)</string>
+
+    <string name="string_service_start">打开悬浮窗</string>
+    <string name="string_service_close">关闭悬浮窗</string>
+    <string name="string_service_switch">显示/隐藏悬浮窗</string>
+    <string name="string_service_permission_tip"> 权限提示:</string>
+    <string name="string_service_overlay_tip1">【悬浮窗权限】<![CDATA[<font color="#FF3333">（必须开启）</font>]]></string>
+    <string name="string_service_overlay_tip2">【悬浮窗权限】<![CDATA[<font color="#33CC00">（已开启）</font>]]></string>
+    <string name="string_service_notify_tip1">【通知栏权限】（建议开启）</string>
+    <string name="string_service_notify_tip2">【通知栏权限】<![CDATA[<font color="#33CC00">（已开启）</font>]]></string>
+    <string name="string_close_accessibility_service">关闭辅助服务</string>
+</resources>

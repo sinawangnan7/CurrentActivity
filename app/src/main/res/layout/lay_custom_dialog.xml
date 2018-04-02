@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:background="@drawable/shape_white_6dp">
+
+        <!-- 消息 -->
+        <TextView
+            android:id="@+id/tv_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="44dp"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:gravity="center"
+            tools:text="消息信息"
+            android:textSize="13sp"
+            android:textColor="#333333"/>
+
+        <!-- 分界线 -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginTop="38dp"
+            android:background="#f2f2f2"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+            <!-- 取消按钮 -->
+            <TextView
+                android:id="@+id/tv_cancle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingTop="14dp"
+                android:paddingBottom="14dp"
+                android:gravity="center"
+                android:singleLine="true"
+                tools:text="取消"
+                android:textSize="16sp"
+                android:textColor="#333333" />
+            <!-- 分界线 -->
+            <View
+                android:id="@+id/v_divider"
+                android:layout_width="0.5dp"
+                android:layout_height="44dp"
+                android:background="#f2f2f2" />
+            <!-- 确认按钮 -->
+            <TextView
+                android:id="@+id/tv_confirm"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingTop="14dp"
+                android:paddingBottom="14dp"
+                android:gravity="center"
+                android:singleLine="true"
+                tools:text="确认"
+                android:textSize="16sp"
+                android:textColor="#007aff" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>
