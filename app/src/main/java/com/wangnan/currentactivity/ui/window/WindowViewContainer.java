@@ -146,19 +146,6 @@ public class WindowViewContainer {
     }
 
     /**
-     * 更新窗口视图（在不知栈顶Activity时调用）
-     */
-    public void updateWindowView() {
-        if (isAdded && mContext != null){
-            ActivityManager manager = (ActivityManager) mContext.getSystemService(Context.ACTIVITY_SERVICE);
-            if (manager != null) {
-                ComponentName componentName = manager.getRunningTasks(1).get(0).topActivity;
-                updateWindowView(componentName.getPackageName() + "\n" + componentName.getClassName());
-            }
-        }
-    }
-
-    /**
      * 移除窗口视图
      */
     public void removeWindowView() {
